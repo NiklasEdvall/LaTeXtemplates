@@ -1,2 +1,2 @@
 # LaTeXtemplates
-Some personal LatTeX-templates I found useful
+Some personal LatTeX-templates I find useful
